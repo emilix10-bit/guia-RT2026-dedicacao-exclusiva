@@ -660,7 +660,7 @@ $$\text{ICMS} = \left[ \frac{\text{BEC}}{1 - \text{alíquota do ICMS}} \right] -
 
 | Componente | Descrição |
 | :--- | :--- |
-| **$\text{PC}_r$** | Preço contratado do material considerando a reforma tributária. |
+| **PC<sub>r</sub>** | Preço contratado do material considerando a reforma tributária. |
 | **BEC** | Base econômica comparável do material. |
 | **CBS** | Valor da CBS aplicada sobre a BEC. |
 | **IBS** | Valor do IBS aplicado sobre a BEC. |
@@ -687,16 +687,15 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | :--- | :--- | :--- |
 | **Valor do material na planilha** | R$ 10.000,00 | — |
 | **DECOMPOSIÇÃO** | | |
-| **PIS** | -R$ 65,00 | $\text{PC}_a \times \text{alíquota PIS}$ |
-| **Cofins** | -R$ 300,00 | $\text{PC}_a \times \text{alíquota Cofins}$ |
-| **ICMS** | -R$ 1.800,00 | $\text{PC}_a \times \text{alíquota ICMS}$ |
-| **Base econ. comparável do material (BEC)** | R$ 7.835,00 | $\text{BEC} = \text{PC}_a - \text{PIS} - \text{Cofins} - \text{ICMS}$ |
+| **PIS** | -R$ 65,00 | $\text{PC}\_a \times \text{alíquota PIS}$ |
+| **Cofins** | -R$ 300,00 | $\text{PC}\_a \times \text{alíquota Cofins}$ |
+| **ICMS** | -R$ 1.800,00 | $\text{PC}\_a \times \text{alíquota ICMS}$ |
+| **Base econ. comparável do material (BEC)** | R$ 7.835,00 | $\text{BEC} = \text{PC}\_a - \text{PIS} - \text{Cofins} - \text{ICMS}$ |
 | **RECOMPOSIÇÃO** | | |
 | **CBS** | R$ 885,35 | $\text{BEC} \times \text{alíquota CBS}$ |
 | **IBS** | R$ 7,83 | $\text{BEC} \times \text{alíquota IBS}$ |
-| **ICMS** | R$ 1.410,30 | $[\text{BEC} \div (1 - \text{alíquota ICMS})] - \text{BEC}$ |
-| **Preço contratado após a Reforma Tributária ($\text{PC}_r$)** | R$ 10.448,06 | $\text{PC}_r = \text{BEC} + \text{CBS} + \text{IBS} + \text{ICMS}$ |
-
+| **ICMS** | R$ 1.719,88 | $[\text{BEC} \div (1 - \text{alíquota ICMS})] - \text{BEC}$ |
+| **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | $\text{PC}\_r = \text{BEC} + \text{CBS} + \text{IBS} + \text{ICMS}$ |
 <br>
 <div style="text-align: right; margin: 10px 0;">
  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
