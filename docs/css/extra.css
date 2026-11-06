@@ -19,3 +19,30 @@ body, .md-content, .wy-nav-content {
     line-height: 1.65 !important;     /* Dá mais espaço entre as linhas para não embaraçar a vista */
     color: #212529 !important;        /* Escurece a cor do texto para dar mais contraste com o fundo */
 }
+
+/* --- AJUSTE DE TABELAS: FORÇA QUEBRA DE LINHA E REMOVE BARRA DE ROLAGEM --- */
+
+/* 1. Garante que a tabela ocupe 100% do espaço disponível */
+.wy-table-responsive table, 
+.rst-content table.docutils, 
+table {
+  width: 100% !important;
+  table-layout: auto !important;
+}
+
+/* 2. Força a quebra de linha automática no texto de todas as células */
+.wy-table-responsive table td, 
+.wy-table-responsive table th, 
+.rst-content table td, 
+.rst-content table th, 
+table td, 
+table th {
+  white-space: normal !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
+/* 3. Remove o contêiner de rolagem forçada quando o conteúdo couber na tela */
+.wy-table-responsive {
+  overflow-x: auto !important;
+}
