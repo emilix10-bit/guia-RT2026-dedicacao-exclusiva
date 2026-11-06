@@ -103,7 +103,9 @@ Mesmo que a análise não resulte em mudança no valor total do contrato, será 
     
     Com a Reforma Tributária, a Seges ainda avalia quais critérios e metodologias serão utilizados para considerar os tributos efetivamente suportados pela contratada e os créditos relacionados à contratação no âmbito da CBS e do IBS.
     
-    Por isso, os exemplos do item 5 deste guia são simplificados e têm finalidade exclusivamente didática. Eles não utilizam uma metodologia baseada na tributação efetivamente suportada nem contemplam a apropriação de créditos. Seu objetivo é mostrar como a Reforma Tributária pode afetar economicamente os contratos e explicar a lógica de comparação entre os cenários tributários.
+    Por isso, os exemplos do item 5 deste guia são simplificados e têm finalidade exclusivamente didática. Eles apresentam diferentes formas de comparar os cenários tributários e mostram como a Reforma Tributária pode afetar os preços dos contratos.
+
+    Nos cálculos referentes à CBS e ao IBS, os exemplos não consideram a apropriação de créditos nem uma metodologia baseada na tributação efetivamente suportada pela contratada.
     
     Quanto ao Módulo 5 da PCFP, que trata de insumos e materiais, este guia apresenta apenas os exemplos ilustrativos de cálculo do item 3 do Anexo I.
     
