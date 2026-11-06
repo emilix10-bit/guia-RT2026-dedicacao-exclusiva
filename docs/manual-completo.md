@@ -588,11 +588,11 @@ $$\text{ISS} = \text{PC}_a \times \text{alíquota do ISS}$$
 
 | Componente | Descrição |
 | :--- | :--- |
-| **$\text{PC}_a$** | Preço contratado atual. |
+| **PC<sub>a</sub>** | Preço contratado atual. |
 | **BEC** | Base econômica comparável do serviço. |
-| **PIS** | Valor de PIS incorporado ao preço do serviço ($\text{PC}_a$). |
-| **Cofins** | Valor de Cofins incorporado ao preço do serviço ($\text{PC}_a$). |
-| **ISS** | Valor de ISS incorporado ao preço do serviço ($\text{PC}_a$). |
+| **PIS** | Valor de PIS incorporado ao preço do serviço (PC<sub>a</sub>). |
+| **Cofins** | Valor de Cofins incorporado ao preço do serviço (PC<sub>a</sub>). |
+| **ISS** | Valor de ISS incorporado ao preço do serviço (PC<sub>a</sub>). |
 
 #### 2.2. Recomposição considerando a CBS e o IBS
 
@@ -608,7 +608,7 @@ $$\text{ISS} = \left[ \frac{\text{BEC}}{1 - \text{ISS}} \right] - \text{BEC}$$
 
 | Componente | Descrição |
 | :--- | :--- |
-| **$\text{PC}_r$** | Preço contratado considerando a reforma tributária. |
+| **PC<sub>r</sub>** | Preço contratado considerando a reforma tributária. |
 | **BEC** | Base econômica comparável. |
 | **CBS** | Valor da CBS aplicada sobre a BEC. |
 | **IBS** | Valor do IBS aplicado sobre a BEC. |
@@ -641,10 +641,10 @@ $$\text{ICMS} = \text{PC}_a \times \text{alíquota de ICMS}$$
 | Componente | Descrição |
 | :--- | :--- |
 | **BEC** | Base econômica comparável do material. |
-| **$\text{PC}_a$** | Preço contratado do material atual. |
-| **PIS** | Valor de PIS identificado no preço contratado do material ($\text{PC}_a$). |
-| **Cofins** | Valor de Cofins identificado no preço contratado do material ($\text{PC}_a$). |
-| **ICMS** | Valor de ICMS identificado no preço contratado do material ($\text{PC}_a$). |
+| **PC<sub>a</sub>** | Preço contratado do material atual. |
+| **PIS** | Valor de PIS identificado no preço contratado do material (PC<sub>a</sub>). |
+| **Cofins** | Valor de Cofins identificado no preço contratado do material (PC<sub>a</sub>). |
+| **ICMS** | Valor de ICMS identificado no preço contratado do material (PC<sub>a</sub>). |
 
 #### 3.3 Recomposição com CBS e IBS
 
