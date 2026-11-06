@@ -10,7 +10,7 @@
 </div>
 
 
-# Reforma Tributária nas contratações públicas {#titulo-principal}
+# Reforma Tributária nas contratações públicas
 ### Guia para contratos de serviços com dedicação exclusiva de mão de obra
 
 Este guia apresenta orientações da Secretaria de Gestão e Inovação (Seges/MGI) para contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra que utilizam a Planilha de Custos e Formação de Preços (PCFP) do modelo da Seges ou estrutura equivalente que permita identificar os componentes do preço contratado.
