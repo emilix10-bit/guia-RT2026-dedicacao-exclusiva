@@ -1,233 +1,139 @@
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
-  <span style="font-size: 14px; color: #555; font-weight: bold;">Tamanho do texto:</span>
-  <button onclick="diminuirFonte()" title="Diminuir texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A-</button>
-  <button onclick="resetarFonte()" title="Tamanho normal" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A</button>
-  <button onclick="aumentarFonte()" title="Aumentar texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A+</button>
-  
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
-    🖨️ Imprimir ou baixar esta página
-  </button>
+ <span style="font-size: 14px; color: #555; font-weight: bold;">Tamanho do texto:</span>
+ <button onclick="diminuirFonte()" title="Diminuir texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A-</button>
+ <button onclick="resetarFonte()" title="Tamanho normal" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A</button>
+ <button onclick="aumentarFonte()" title="Aumentar texto" style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">A+</button>
+ 
+ <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
+ 🖨️ Imprimir ou baixar esta página
+ </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: FORNECEDORES</p>
+<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: GESTORES PÚBLICOS, FISCAIS DE CONTRATOS E FORNECEDORES</p>
 
-# Como participar de uma convocação de remanescentes no Compras.gov.br
+# Reforma Tributária nas contratações públicas
+### Guia para contratos de serviços com dedicação exclusiva de mão de obra
 
-Utilize o sistema Compras.gov.br para participar de uma convocação de remanescentes em processos de contratação. Após a homologação de um processo do qual você participou e não venceu, é possível participar de convocações de remanescentes iniciadas pelo órgão contratante.
+#### Atuação da Seges na transição tributária
 
-<br>
+Como órgão central do Sistema de Serviços Gerais (Sisg), a Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos (Seges/MGI) acompanha os efeitos da Reforma Tributária no planejamento, na formação de preços e na gestão das contratações dos órgãos e entidades que integram o Sisg.
 
-# ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
+Este guia apresenta orientações para contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra que utilizam a Planilha de Custos e Formação de Preços (PCFP) do modelo da Seges ou estrutura equivalente que permita identificar os componentes do preço contratado. Ele não abrange contratações com outros objetos ou regimes de execução nem todos os aspectos da transição tributária.
 
-**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”. 
+As orientações a seguir não substituem as competências legalmente atribuídas aos órgãos responsáveis pela administração tributária, às unidades de assessoramento jurídico, às áreas contábeis e às demais unidades técnicas competentes para a instrução e decisão dos processos administrativos.
 
-![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
+Além disso, este guia tem caráter preparatório e poderá ser atualizado à medida que forem definidos novos critérios normativos, técnicos e operacionais. Sua aplicação deve considerar a legislação vigente no período analisado, as condições da contratação e as circunstâncias comprovadas em cada caso concreto.
 
-**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
+---
 
-![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
+# 1. Como a Reforma Tributária afeta os contratos com dedicação exclusiva de mão de obra?
 
-Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para acessar o sistema.
+A Reforma Tributária do consumo muda a forma de incidência dos tributos e a sistemática de creditamento nas operações com bens e serviços. Essas mudanças podem afetar os preços dos contratos de serviços com dedicação exclusiva de mão de obra.
 
-![Tela 03](Imagens/tela03-acesso-fornecedor-estrangeiro.png)
+Nesses contratos, o preço não inclui apenas os custos da mão de obra. A Planilha de Custos e Formação de Preços (PCFP) também reúne custos indiretos, tributos e lucro. Por isso, para avaliar os efeitos da Reforma Tributária, é necessário considerar como as novas regras afetam os diferentes componentes do preço.
 
-**Passo 3:** No menu “Compras”, acesse a opção “Licitação e dispensas (novo)”.
+A partir de 1º de janeiro de 2027, o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins) serão substituídos pela Contribuição sobre Bens e Serviços (CBS), enquanto continua a transição para o Imposto sobre Bens e Serviços (IBS). Assim, contratos com preços calculados pelas regras tributárias anteriores poderão continuar em execução durante a transição.
 
-![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
-
-**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita) (tela 05)
-
-![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
-
-ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da contratação desejada.
-
-![Tela 06](Imagens/tela06-acesso-pela-area-de-pesquisa.png)
-
-**Passo 5:** Acesse a contratação clicando na opção “Acompanhar compra”.
-
-![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
-
-**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
-
-![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
-
-<br>
-
-# MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
-
-A convocação de remanescentes acontecerá em duas etapas sucessivas:
-
-* Aceite, para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
-* Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
-
-**Passo 1:** Para formalizar sua intenção de participar em uma convocação de remanescentes, selecione o item em que deseja atuar e clique em “Operar item”.
-
-![Tela 09](./Imagens/tela09-operar-item.png)
-
-**Passo 2:** Leia as informações sobre o item, pois os valores podem ser atualizados.
-
-![Tela 10](./Imagens/tela10-informacoes-do-item.png)
-
-**Passo 3:** No campo “Proposta”, será solicitada a manifestação interesse em participar da convocação de remanescentes na condição atual.
-
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
-
-<br>
-
-# CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR
-
-O processo de convocação de remanescentes começa pela oportunidade de assumir o contrato nas mesmas condições do fornecedor. Para manifestar se aceita ou assumir o contrato pelas condições do vencedor, siga as instruções abaixo:
-
-**Passo 01:** No cabeçalho do campo proposta, será indicado o prazo para manifestação de interesse de fornecer pelas condições do vencedor. Revise as informações sobre as condições da contratação e selecione a opção desejada.
-
-![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
-
-Confirme sua opção
-
-![Tela 12](./Imagens/tela12-confirmar-opcao.png)
-
-**Passo 02:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção.
-
-![Tela 13](./Imagens/tela13-alterar-opcao.png)
-
-Confirme.
-
-![Tela 14](./Imagens/tela14-confirmar-alteracao.png)
-
-Quando o prazo do processo finalizar para todos os fornecedores que participaram do processo se manifestarem, o agente de contratação partirá para a etapa de habilitação e julgamento dessa convocação de remanescentes. 
-
-**Passo 03:** Acesse o item em convocação de remanescentes selecionando a opção “Operar item”.
-
-![Tela 15](./Imagens/tela15-solicitacao-de-envio-de-documentacao.png)
-
-Para visualizar quais documentos foram solicitados, acesse a seção “Anexos”.
-
-![Tela 16](./Imagens/tela16-upload-de-anexo.png)
-
-Leia a justificativa e o conteúdo da solicitação e encaminhe os documentos necessários. Para isso, leia os avisos de sistema e declare ciência.
-
-![Tela 17](./Imagens/tela17-encerrar-envio-de-anexo.png)
-
-Anexe todos os arquivos clicando no local indicado ou arrastando os arquivos para essa área. Finalize o carregamento de todos os documentos e clique em “Encerrar envio de anexos”.
-
-![Tela 18](./Imagens/tela18-encerrar-envios-de-anexos.png)
-
-**Passo 04:** Para visualizar e responder as mensagens encaminhadas pelo agente de contratação responsável, selecione a seção “Chat”.
-
-![Tela 19](./Imagens/tela19-chat.png)
-
-Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o processo. Preencha a mensagem desejada e clique em “Enviar” para encaminhá-la ao agente de contratação.
-
-![Tela 20](./Imagens/tela20-mensagens.png)
-
-**Passo 05:** Caso a documentação da proposta de fornecimento não atenda aos requisitos de edital, o fornecedor será desclassificado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Desclassificado”.
-
-![Tela 21](./Imagens/tela21-fornecedor-desclassificado.png)
-
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Desclassificado” persistir.
+Para avaliar os efeitos dessas mudanças, é importante comparar os preços calculados com as regras anteriores e com as regras aplicáveis ao período analisado, mantendo uma base econômica comparável. A análise também deve considerar as características de cada contratação e distinguir os efeitos da Reforma Tributária de outras variações que possam afetar o preço contratado.
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
-
-
-**Passo 06:** Caso a documentação de habilitação não atenda aos requisitos de edital, o fornecedor será inabilitado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Inabilitado”.
-
-![Tela 22](./Imagens/tela22-fornecedor-inabilitado.png)
-
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Inabilitado” persistir.
-
-!!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
-
-**Passo 07:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
-
-![Tela 23](./Imagens/tela23-fornecedor-aceito-e-habilitado.png)
-
-**Passo 08:** Para a formalizar o processo, o agente de contratação encerrará a convocação de remanescentes. Assim, ficará na tela a indicação “Situação: Encerrada”.
-
-![Tela 24](./Imagens/tela24-convocacao-encerrada.png)
+    **PONTO DE ATENÇÃO**
+    
+    Comparar apenas as alíquotas de PIS e Cofins com as de CBS e IBS não é suficiente para determinar o impacto da Reforma Tributária sobre um contrato.
+    
+    A análise deve considerar a composição do preço, a forma de cálculo dos tributos, os créditos admitidos, os tratamentos tributários aplicáveis e os demais efeitos econômicos da mudança, conforme as características de cada contratação.
 
 <br>
 
-# CONVOCAÇÃO POR NEGOCIAÇÃO DE PREÇOS
+## 1.1 Conceitos essenciais
 
-Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
+Antes de analisar os efeitos da Reforma Tributária sobre os contratos, é importante conhecer alguns conceitos.
 
-**Passo 01:** Acesse a contratação com status “Em convocação para negociação”, selecionando o ícone “Operar item”. 
+Parte deles está prevista na legislação, especialmente na Lei Complementar nº 214, de 2025, e nas normas de contratações públicas. Outros são utilizados neste guia para facilitar a comparação dos preços antes e depois das mudanças tributárias. Esses conceitos usados para fins de análise não substituem as definições legais.
 
-![Tela 25](./Imagens/tela25-negociacao-de-precos.png)
+| Conceito | O que significa | Por que importa |
+| :--- | :--- | :--- |
+| **Preço contratado (PC)** | Valor acordado para a execução do contrato, calculado conforme as condições da contratação e a PCFP. | A mudança tributária pode aumentar ou reduzir esse valor, conforme os efeitos comprovados em cada contrato e a legislação aplicável. |
+| **Base econômica comparável (BEC)** | Conjunto de custos diretos, custos indiretos e lucro que permanece constante na comparação entre os cenários tributários, exceto quando a própria mudança tributária afeta algum desses componentes. | Permite identificar os efeitos da Reforma Tributária sem confundi-los com outros fatores, como inflação, repactuação ou alteração das quantidades contratadas. |
+| **Carga tributária nominal** | Percentual ou valor dos tributos calculado antes de descontar créditos e aplicar outros mecanismos previstos na legislação. | Ajuda a identificar os tributos incidentes, mas não representa necessariamente o custo tributário que a empresa efetivamente suporta. |
+| **Crédito tributário** | Valor que pode ser utilizado para reduzir o tributo a recolher, nas situações permitidas pela legislação. | Empresas sujeitas à mesma alíquota podem ter cargas tributárias líquidas diferentes, dependendo dos créditos que podem aproveitar. |
+| **Não cumulatividade** | Sistemática que permite compensar os débitos tributários das operações com os créditos admitidos pela legislação, conforme as regras aplicáveis. | É importante considerar os insumos, máquinas, equipamentos, bens e serviços adquiridos e sua relação com a execução do contrato. |
+| **Impacto líquido** | Diferença econômica causada pela mudança tributária, depois de considerados a incidência dos tributos, os créditos, os redutores e os demais mecanismos aplicáveis. | Permite avaliar o efeito da mudança tributária sobre o preço contratado, sem considerar apenas a diferença entre as alíquotas. |
+| **Reequilíbrio econômico-financeiro** | Recomposição das condições econômicas originalmente acordadas no contrato, diante de um evento juridicamente relevante e comprovado. | Para avaliar a necessidade de reequilíbrio devido à alteração ou extinção de tributos, é preciso verificar os efeitos efetivos sobre o preço contratado, conforme a legislação e as características de cada caso. |
+| **Repactuação** | Mecanismo de ajuste dos preços de serviços contínuos com dedicação exclusiva ou predominância de mão de obra, mediante demonstração analítica da variação dos custos. | Se ocorrer no mesmo período da mudança tributária, seus efeitos precisam ser analisados separadamente para evitar que a mesma variação de custo seja considerada duas vezes. |
+| **Regime tributário da contratada** | Conjunto de regras que determina como a empresa apura seus tributos, incluindo as formas de apuração e as situações específicas previstas na legislação. | Os efeitos da Reforma Tributária podem variar conforme o regime da empresa, as condições consideradas na proposta, o período analisado e as características do contrato. |
 
-**Passo 02:** No cabeçalho do campo proposta, será indicado o prazo para manifestar interesse para negociar. Revise as informações sobre as condições da contratação e selecione a opção desejada.
+<br>
 
-![Tela 27](./Imagens/tela27-aceitar-negociacao.png)
+## 1.2 O que muda com a CBS e o IBS
 
-Confirme sua opção.
+A Reforma Tributária muda a forma de calcular os tributos sobre bens e serviços, o que pode afetar a formação dos preços dos contratos públicos.
 
-![Tela 28](./Imagens/tela28-confirmar-aceite.png)
+O Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins) serão substituídos pela Contribuição sobre Bens e Serviços (CBS). Já o Imposto sobre Bens e Serviços (IBS) faz parte da transição que envolve o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) e o Imposto sobre Serviços de Qualquer Natureza (ISS).
 
-**Passo 03:** Durante o prazo de manifestação indicado, você poderá alterar sua opção. Selecione a nova opção
+Essas mudanças não se limitam aos nomes dos tributos. Elas também envolvem as bases de cálculo, as formas de incidência e as regras de creditamento.
 
-![Tela 29](./Imagens/tela29-alterar-opcao.png)
+Na sistemática da CBS e do IBS, a base de cálculo corresponde, em regra, ao valor da operação, com as exclusões previstas na legislação. Entre os valores excluídos estão os próprios montantes da CBS e do IBS e os descontos incondicionais.
 
-E confirme a opção.
-
-![Tela 30](./Imagens/tela30-confirmar-alteracao.png)
-
-**Passo 04:** Depois que terminar o prazo para manifestação de todos os fornecedores que participaram do processo, o agente de contratação fará a negociação com o fornecedor mais bem classificado no processo. 
-
-Retorne ao item em convocação acessando a opção “Operar item”.
-
-![Tela 31](./Imagens/tela31-negociacao-iniciada.png)
-
-Acesse a seção “Proposta” para visualizar os detalhes da negociação.
-
-![Tela 32](./Imagens/tela32-negociacao-de-preco.png)
-
-O valor proposto pela administração aparecerá indicado no campo “Valor sugerido”. Você poderá “Desistir de participar pelo valor negociado”, “Confirmar o valor negociado”, ou fazer uma contraproposta.
-
-**Passo 05:** Caso não deseje prosseguir no processo, seleciona “Desistir de participar pelo valor negociado”.
-
-![Tela 33](./Imagens/tela33-opcoes-de-acao.png)
-
-Preencha o campo de justificativa e confirme.
-
-![Tela 34](./Imagens/tela34-desistir-da-negociacao.png)
+Além disso, de 1º de janeiro de 2026 a 31 de dezembro de 2032, também ficam fora da base de cálculo os tributos previstos no art. 12, § 2º, inciso V, da Lei Complementar nº 214, de 2025. Entre eles estão o ICMS, o ISS, as contribuições para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Cofins.
 
 !!! warning "Atenção"
-    Essa opção não poderá ser desfeita por você, apenas pelo agente de contratação/pregoeiro
+    **ATENÇÃO À METODOLOGIA DE CÁLCULO**
+    
+    Adaptar a PCFP à Reforma Tributária não significa apenas substituir as alíquotas.
+    
+    A CBS e o IBS têm regras próprias de base de cálculo, incidência, creditamento e transição. Por isso, ao recalcular o preço, é necessário aplicar as regras de cada tributo conforme o período analisado.
+    
+    Também é importante evitar a soma ou a comparação direta de percentuais calculados sobre bases diferentes.
 
-**Passo 06:** Caso deseje aceitar o valor proposto pela Administração, preencha o campo “Valor negociado (unitário)” com o valor proposto pelo agente de contratação/pregoeiro e confirme a opção.
+<br>
 
-![Tela 35](./Imagens/tela35-aceitar-preco-da-adm.png)
+## 1.3 Como a Reforma Tributária afeta a Planilha de custos e formação de preços (PCFP) modelo Seges
 
-**Passo 07:** Caso deseje fazer uma contraproposta, preencha o campo “Valor negociado (unitário)” com o novo valor proposto e confirma e opção.
+A PCFP apresenta a composição do preço contratado, dividida em módulos e componentes. Esse detalhamento ajuda a identificar como o preço foi calculado originalmente, mas não permite ajustar os valores automaticamente às novas regras tributárias.
 
-![Tela 36](./Imagens/tela36-contraproposta.png)
+Para avaliar os efeitos da Reforma Tributária, é necessário verificar como as mudanças podem afetar cada componente do preço, como salários, encargos, benefícios, insumos, custos indiretos, tributos e lucro. Essa análise deve considerar as regras de incidência e creditamento aplicáveis.
 
-O agente de contratação poderá aceitar sua contraproposta ou iniciar uma nova negociação. Repita esse processo até que cheguem a uma negociação final.
+Alguns componentes, como uniformes, equipamentos de proteção individual, materiais, equipamentos, vale-transporte e serviços de terceiros, podem sofrer efeitos tributários diferentes daqueles relacionados diretamente à mão de obra. A possibilidade de aproveitar créditos e seus valores depende das regras previstas na legislação, do regime tributário da contratada e das características de cada contratação.
 
-![Tela 37](./Imagens/tela37-contraproposta-enviada.png)
+Mesmo que a análise não resulte em mudança no valor total do contrato, será necessário atualizar a estrutura da PCFP para representar corretamente os tributos aplicáveis, a composição dos módulos e componentes e a metodologia de cálculo da CBS e do IBS.
 
 !!! note "Nota"
-    Para envio de documentos solicitados para habilitação e julgamento, siga o passo 3 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+    **CRITÉRIOS E METODOLOGIA PARA ANALISAR OS EFEITOS TRIBUTÁRIOS**
+    
+    A Orientação nº 19 da Seges estabelece que, para empresas sujeitas ao regime não cumulativo de PIS e Cofins, devem ser utilizadas as alíquotas médias efetivamente recolhidas. A orientação também apresenta elementos que podem ajudar a comprovar esses valores.
+    
+    Com a Reforma Tributária, a Seges ainda avalia quais critérios e metodologias serão utilizados para considerar os tributos efetivamente suportados pela contratada e os créditos relacionados à contratação no âmbito da CBS e do IBS.
+    
+    Por isso, os exemplos do item 5 deste guia são simplificados e têm finalidade exclusivamente didática. Eles não utilizam uma metodologia baseada na tributação efetivamente suportada nem contemplam a apropriação de créditos. Seu objetivo é mostrar como a Reforma Tributária pode afetar economicamente os contratos e explicar a lógica de comparação entre os cenários tributários.
+    
+    Quanto ao Módulo 5 da PCFP, que trata de insumos e materiais, este guia apresenta apenas os exemplos ilustrativos de cálculo do item 3 do Anexo I.
+    
+    A Seges publicará orientações específicas sobre a tributação efetivamente suportada, a apropriação de créditos, os efeitos sobre insumos e materiais e os documentos necessários para comprovar essas informações.
+    
+    Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula $[1 - (\% \text{ tributos} / 100)]$. Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
 
-    Para envio de mensagens, siga o passo 4 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+---
 
-    Caso o fornecedor seja desclassificado, leia as informações constantes no passo 5 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+# 2. Como preparar o órgão público para a transição tributária
 
-    Caso o fornecedor seja inabilitado, leia as informações constantes no passo 6 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
+Para se preparar para a Reforma Tributária, recomenda-se que os órgãos e entidades:
 
+* Revisem os fluxos de trabalho e os procedimentos que podem ser afetados pela transição tributária, de acordo com a estrutura de cada órgão ou entidade.
+* Identifiquem as unidades responsáveis pelo planejamento, pela gestão e fiscalização dos contratos, pelos pagamentos, pela repactuação, pelo reajustamento e pela análise de alterações de preços decorrentes de mudanças tributárias ou de outros eventos juridicamente relevantes.
+* Mantenham organizados os documentos das contratações, incluindo a proposta, a PCFP original e a vigente, as memórias de cálculo e os registros das alterações realizadas durante a execução dos contratos.
+* Capacitem as equipes envolvidas.
 
-**Passo 08:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Com isso, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
+Ao organizar os fluxos de trabalho, é importante considerar as competências de cada unidade e respeitar a segregação de funções. Nos casos que exigirem conhecimentos especializados, recomenda-se avaliar a participação das áreas jurídica, contábil ou de outras áreas competentes.
 
-![Tela 38](./Imagens/tela38-aceito-e-habilitado.png)
+Essas medidas contribuem para a consistência das análises, a adequada instrução dos processos administrativos e a definição clara das responsabilidades. Elas se aplicam tanto ao planejamento de novas contratações quanto à revisão de contratos vigentes.
 
-**Passo 09:** Para a formalização do processo, o agente de contratação deve encerrar a convocação de remanescentes. Com isso, ficará na tela a indicação “Situação: Encerrada”.
+---
 
-![Tela 39](./Imagens/tela39-remanescente-encerrado.png)
+# 3. Como planejar a contratação durante a transição tributária
 
-<div style="text-align: right; margin: 10px 0;">
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-    🖨️ Imprimir ou baixar esta página
-  </button>
-</div>
+Nas contratações cuja execução ocorra durante a transição para a CBS e o IBS, recomenda-se descrever com clareza o objeto e identificar os serviços e bens fornecidos ou utilizados na execução.
+
+A Lei Complementar nº 214, de 2025, estabelece as regras de incidência da CBS e do IBS sobre operações com bens e serviços. A lei utiliza duas classificações para identificar operações sujeitas a tratamentos tributários específicos: a Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (NBS) e a Nomenclatura Comum do Mercosul/Sistema Harmonizado (NCM/SH).
+
+A identificação dos bens e serviços pode influenciar a formação do preço
