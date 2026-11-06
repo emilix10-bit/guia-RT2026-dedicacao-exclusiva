@@ -9,7 +9,6 @@
  </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: GESTORES PÚBLICOS, FISCAIS DE CONTRATOS E FORNECEDORES</p>
 
 # Reforma Tributária nas contratações públicas
 ### Guia para contratos de serviços com dedicação exclusiva de mão de obra
