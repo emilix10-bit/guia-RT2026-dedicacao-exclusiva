@@ -69,7 +69,7 @@ Nessa etapa, os tributos são calculados conforme suas respectivas metodologias,
 $$\text{Preço contratado } (\text{PC}_r) = \text{BEC} + \text{CBS} + \text{IBS} + \text{ISS}$$  
 $$\text{CBS} = \text{BEC} \times \text{alíquota da CBS}$$  
 $$\text{IBS} = \text{BEC} \times \text{alíquota do IBS}$$  
-$$\text{ISS} = \left[ \frac{\text{BEC}}{1 - \text{ISS}} \right - \text{BEC}$$
+$$\text{ISS} = \left[ \frac{\text{BEC}}{1 - \text{ISS}} \right] - \text{BEC}$$
 
 | Componente | Descrição |
 | :--- | :--- |
@@ -121,7 +121,7 @@ Essa etapa segue a mesma lógica utilizada para os serviços, mas considera os t
 $$\text{Preço contratado } (\text{PC}_r) = \text{BEC} + \text{CBS} + \text{IBS} + \text{ICMS}$$  
 $$\text{CBS} = \text{BEC} \times \text{alíquota da CBS}$$  
 $$\text{IBS} = \text{BEC} \times \text{alíquota efetiva do IBS}$$  
-$$\text{ICMS} = \left[ \frac{\text{BEC}}{1 - \text{alíquota do ICMS}} \right - \text{BEC}$$
+$$\text{ICMS} = \left[ \frac{\text{BEC}}{1 - \text{alíquota do ICMS}} \right] - \text{BEC}$$
 
 | Componente | Descrição |
 | :--- | :--- |
