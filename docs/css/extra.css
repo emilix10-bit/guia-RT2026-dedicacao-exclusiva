@@ -19,3 +19,9 @@ body, .md-content, .wy-nav-content {
     line-height: 1.65 !important;     /* Dá mais espaço entre as linhas para não embaraçar a vista */
     color: #212529 !important;        /* Escurece a cor do texto para dar mais contraste com o fundo */
 }
+
+/* Cor do título principal */
+#titulo-principal {
+    color: #0056b3 !important;
+}
+
