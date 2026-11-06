@@ -9,9 +9,8 @@
  </button>
 </div>
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: GESTORES PÚBLICOS, FISCAIS DE CONTRATOS E FORNECEDORES</p>
 
-# Reforma Tributária nas contratações públicas
+# Reforma Tributária nas contratações públicas {#titulo-principal}
 ### Guia para contratos de serviços com dedicação exclusiva de mão de obra
 
 Este guia apresenta orientações da Secretaria de Gestão e Inovação (Seges/MGI) para contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra que utilizam a Planilha de Custos e Formação de Preços (PCFP) do modelo da Seges ou estrutura equivalente que permita identificar os componentes do preço contratado.
