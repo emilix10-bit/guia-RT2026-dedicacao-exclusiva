@@ -142,6 +142,9 @@ Neste exemplo, as premissas utilizadas resultam em um aumento de R$ 2.194,09 no 
 Se a análise de um contrato real demonstrar esse aumento e comprovar que ele decorre da mudança tributária, o órgão ou entidade deverá promover a recomposição do preço em favor da contratada, observados a solicitação da interessada e o procedimento administrativo aplicável.
 
 #### Exemplo 2. Regime não cumulativo de PIS e Cofins
+No exemplo do regime não cumulativo desta seção, utilizamos alíquotas efetivas de PIS e Cofins, correspondentes a 65% das alíquotas nominais apresentadas no item 5.2. Essa simulação demonstra a aplicação de alíquotas efetivas, conforme a metodologia prevista na Orientação nº 19 da Seges.
+
+Já o exemplo do item 5.2 utiliza alíquotas nominais e um crédito estimado de R$ 925,00. Por isso, os dois exemplos apresentam preços diferentes, embora considerem a mesma base econômica comparável.
 
 #### Quadro 5. Módulo 6: Custos Indiretos, Tributos e Lucro (CITL) no regime não cumulativo de PIS e Cofins
 
