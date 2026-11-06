@@ -696,6 +696,7 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | **IBS** | R$ 7,83 | $\text{BEC} \times \text{alíquota IBS}$ |
 | **ICMS** | R$ 1.719,88 | $[\text{BEC} \div (1 - \text{alíquota ICMS})] - \text{BEC}$ |
 | **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | $\text{PC}\_r = \text{BEC} + \text{CBS} + \text{IBS} + \text{ICMS}$ |
+
 <br>
 <div style="text-align: right; margin: 10px 0;">
  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
