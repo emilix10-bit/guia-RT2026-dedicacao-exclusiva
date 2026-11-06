@@ -151,15 +151,15 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | :--- | :--- | :--- |
 | **Valor do material na planilha** | R$ 10.000,00 | — |
 | **DECOMPOSIÇÃO** | | |
-| **PIS** | -R$ 65,00 | $\text{PC}\_a \times \text{alíquota PIS}$ |
-| **Cofins** | -R$ 300,00 | $\text{PC}\_a \times \text{alíquota Cofins}$ |
-| **ICMS** | -R$ 1.800,00 | $\text{PC}\_a \times \text{alíquota ICMS}$ |
-| **Base econ. comparável do material (BEC)** | R$ 7.835,00 | $\text{BEC} = \text{PC}\_a - \text{PIS} - \text{Cofins} - \text{ICMS}$ |
+| **PIS** | -R$ 65,00 | PC<sub>a</sub> × alíquota PIS |
+| **Cofins** | -R$ 300,00 | PC<sub>a</sub> × alíquota Cofins |
+| **ICMS** | -R$ 1.800,00 | PC<sub>a</sub> × alíquota ICMS |
+| **Base econ. comparável do material (BEC)** | R$ 7.835,00 | BEC = PC<sub>a</sub> - PIS - Cofins - ICMS |
 | **RECOMPOSIÇÃO** | | |
-| **CBS** | R$ 885,35 | $\text{BEC} \times \text{alíquota CBS}$ |
-| **IBS** | R$ 7,83 | $\text{BEC} \times \text{alíquota IBS}$ |
-| **ICMS** | R$ 1.719,88 | $[\text{BEC} \div (1 - \text{alíquota ICMS})] - \text{BEC}$ |
-| **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | $\text{PC}\_r = \text{BEC} + \text{CBS} + \text{IBS} + \text{ICMS}$ |
+| **CBS** | R$ 885,35 | BEC × alíquota CBS |
+| **IBS** | R$ 7,83 | BEC × alíquota IBS |
+| **ICMS** | R$ 1.719,88 | [BEC ÷ (1 - alíquota ICMS)] - BEC |
+| **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | PC<sub>r</sub> = BEC + CBS + IBS + ICMS |
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
