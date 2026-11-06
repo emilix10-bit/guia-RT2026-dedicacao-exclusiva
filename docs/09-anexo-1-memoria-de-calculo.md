@@ -144,7 +144,6 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | **Cofins** | 3%] |
 | **CBS** | 11,3% (TCU)] |
 | **IBS** | 0,1%] |
-| **Redutor para compras governamentais** | 44,2% (TCU)] |
 
 **Exemplo 1. Cálculo sem apropriação de créditos: CBS e IBS não integram a base de cálculo do ICMS.**]
 
