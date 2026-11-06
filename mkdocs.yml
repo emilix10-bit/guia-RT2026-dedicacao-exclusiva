@@ -1,1 +1,30 @@
+site_name: Reforma Tributária nas Contratações Públicas - Guia SEGES
 
+theme:
+  name: readthedocs
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+
+nav:
+  - Início: index.md
+  - 1. Como a Reforma Tributária afeta os contratos: 01-afetacao-contratos.md
+  - 2. Como preparar o órgão público: 02-preparacao-orgao-publico.md
+  - 3. Como planejar a contratação: 03-planejamento-contratacao.md
+  - 4. Como avaliar os contratos vigentes: 04-avaliacao-contratos-vigentes.md
+  - 5. Exemplo prático: por que a troca de alíquotas não basta: 05-exemplo-pratico.md
+  - 6. Informações insuficientes: 06-informacoes-insuficientes.md
+  - 7. Cuidados para analisar os efeitos: 07-cuidados-analise.md
+  - 8. Legislação e referências técnicas: 08-legislacao-referencias.md
+  - ANEXO I - Memória de Cálculo e Fórmulas: 09-anexo-1-memoria-de-calculo.md
+  - Versão Completa do guia: manual-completo.md
+
+# Configuração dos estilos e scripts customizados
+extra_css:
+  - custom.css
+  - css/extra.css
+
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
