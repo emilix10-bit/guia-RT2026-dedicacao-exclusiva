@@ -17,7 +17,7 @@ Entre as informações que precisam ser verificadas, estão:
 
 * a descrição do serviço contratado e seu enquadramento tributário;
 * os materiais relevantes para a execução do contrato e suas classificações fiscais, quando aplicáveis;
-* o regime tributário da contratada na época da apresentação da proposta, quando tiver influenciado a formação do preço;
+* o regime tributário da contratada na época da apresentação da proposta;
 * as demais premissas tributárias consideradas na PCFP.
 
 Essas informações ajudam a identificar como o preço foi calculado originalmente e a comparar os efeitos das regras tributárias anteriores e das novas regras.
