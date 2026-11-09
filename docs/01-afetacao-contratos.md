@@ -111,7 +111,7 @@ Mesmo que a análise não resulte em mudança no valor total do contrato, será 
     
     A Seges publicará orientações específicas sobre a tributação efetivamente suportada, a apropriação de créditos, os efeitos sobre insumos e materiais e os documentos necessários para comprovar essas informações.
     
-    Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula $[1 - (\% \text{ tributos} / 100)]$. Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
+    Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula 1-(tributos/100). Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
