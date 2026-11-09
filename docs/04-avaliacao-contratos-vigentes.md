@@ -89,8 +89,6 @@ O regime tributário informado pela contratada na apresentação da proposta pod
 
 Nos casos de empresas optantes pelo Simples Nacional, de opção pelo regime regular da CBS e do IBS ou de outros regimes específicos, a análise deve considerar as regras aplicáveis à contratada, à operação e ao período examinado.
 
-As fórmulas, as memórias de cálculo e os exemplos numéricos estão disponíveis no Anexo I deste guia, como material de apoio técnico.
-
 <br>
 <div style="text-align: right; margin: 10px 0;">
  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
