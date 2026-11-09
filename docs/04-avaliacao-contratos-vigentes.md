@@ -33,7 +33,7 @@ Para realizar essa análise, recomenda-se seguir estas etapas:
 5. Identificar as regras tributárias aplicáveis ao período de transição analisado.
 6. Avaliar os efeitos da mudança tributária sobre a PCFP e o preço contratado.
 
-Essa análise ajuda a separar os efeitos da Reforma Tributária daqueles relacionados às condições originais da proposta, a mudanças posteriores no regime tributário da contratada ou a outros fatores que não decorrem da alteração da legislação.
+Essa análise ajuda a separar os efeitos da Reforma Tributária daqueles relacionados às condições originais da proposta ou a outros fatores que não decorrem da alteração da legislação.
 
 <br>
 
