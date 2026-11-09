@@ -161,7 +161,7 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | **ICMS** | R$ 1.719,88 | [BEC ÷ (1 - alíquota ICMS)] - BEC |
 | **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | PC<sub>r</sub> = BEC + CBS + IBS + ICMS |
 
-!!! IMPORTANT
+!!! NOTE "Nota"
     Os valores de PIS, Cofins e ICMS foram calculados por meio de fórmula simplificada. Como o ICMS é um tributo de competência estadual, sua apuração pode variar de acordo com a legislação vigente, o regime tributário adotado e as características específicas da operação.
 
 <br>
