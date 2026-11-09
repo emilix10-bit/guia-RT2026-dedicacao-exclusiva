@@ -73,7 +73,7 @@ Essas mudanças não se limitam aos nomes dos tributos. Elas também envolvem as
 
 Na sistemática da CBS e do IBS, a base de cálculo corresponde, em regra, ao valor da operação, com as exclusões previstas na legislação. Entre os valores excluídos estão os próprios montantes da CBS e do IBS e os descontos incondicionais.
 
-Além disso, de 1º de janeiro de 2026 a 31 de dezembro de 2032, também ficam fora da base de cálculo os tributos previstos no art. 12, § 2º, inciso V, da Lei Complementar nº 214, de 2025. Entre eles estão o ICMS, o ISS, as contribuições para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Cofins.
+Além disso, de 1º de janeiro de 2027 a 31 de dezembro de 2032, também ficam fora da base de cálculo os tributos previstos no art. 12, § 2º, inciso V, da Lei Complementar nº 214, de 2025. Entre eles estão o ICMS, o ISS, as contribuições para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Cofins.
 
 !!! warning "Atenção"
     **ATENÇÃO À METODOLOGIA DE CÁLCULO**
