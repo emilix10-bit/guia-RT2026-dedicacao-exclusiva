@@ -39,7 +39,7 @@ Essa análise ajuda a separar os efeitos da Reforma Tributária daqueles relacio
 
 ## 4.1 Como analisar um caso concreto
 
-Para avaliar os efeitos da Reforma Tributária sobre um contrato, recomenda-se comparar o preço calculated com as regras tributárias consideradas originalmente e o preço calculated com as regras aplicáveis ao período analisado.
+Para avaliar os efeitos da Reforma Tributária sobre um contrato, recomenda-se comparar o preço calculado com as regras tributárias consideradas originalmente e o preço calculado com as regras aplicáveis ao período analisado.
 
 A análise pode começar pela PCFP vigente, em conjunto com a proposta, a PCFP original e os registros das alterações realizadas durante a execução do contrato. Esses documentos ajudam a identificar as premissas tributárias utilizadas na formação do preço.
 
@@ -52,7 +52,7 @@ Para orientar a análise, recomenda-se seguir as oito etapas abaixo:
 | Etapa | Pergunta a responder |
 | :--- | :--- |
 | **1. Identificar a mudança tributária** | Qual alteração tributária será analisada e a que período ela se aplica? |
-| **2. Reconstruir o cenário original** | Quais documentos permitem identificar como o preço foi calculated originalmente e quais alterações ocorreram depois? Considere a proposta, a PCFP original, a PCFP vigente e os registros de repactuações? |
+| **2. Reconstruir o cenário original** | Quais documentos permitem identificar como o preço foi calculado originalmente e quais alterações ocorreram depois? Considere a proposta, a PCFP original, a PCFP vigente e os registros de repactuações? |
 | **3. Identificar o regime tributário** | Qual regime tributário foi considerado na formação da proposta e qual se aplica ao período analisado? |
 | **4. Separar os componentes do preço** | Como o preço está dividido entre remuneração, encargos, benefícios, insumos, custos indiretos, tributos e lucro? |
 | **5. Identificar os efeitos tributários** | Quais componentes do preço foram afetados pela mudança tributária? Quais aquisições podem gerar créditos, quando permitido pela legislação? |
