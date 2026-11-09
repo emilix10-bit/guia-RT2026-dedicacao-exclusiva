@@ -13,6 +13,13 @@
 # Reforma Tributária nas contratações públicas
 ### Guia para contratos de serviços com dedicação exclusiva de mão de obra
 
+Este guia apresenta orientações da Secretaria de Gestão e Inovação (Seges/MGI) para contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra que utilizam a Planilha de Custos e Formação de Preços (PCFP) do modelo da Seges ou estrutura equivalente que permita identificar os componentes do preço contratado.
+
+---
+
+# Reforma Tributária nas contratações públicas
+### Guia para contratos de serviços com dedicação exclusiva de mão de obra
+
 #### Atuação da Seges na transição tributária
 
 Como órgão central do Sistema de Serviços Gerais (Sisg), a Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos (Seges/MGI) acompanha os efeitos da Reforma Tributária no planejamento, na formação de preços e na gestão das contratações dos órgãos e entidades que integram o Sisg.
@@ -74,7 +81,7 @@ Essas mudanças não se limitam aos nomes dos tributos. Elas também envolvem as
 
 Na sistemática da CBS e do IBS, a base de cálculo corresponde, em regra, ao valor da operação, com as exclusões previstas na legislação. Entre os valores excluídos estão os próprios montantes da CBS e do IBS e os descontos incondicionais.
 
-Além disso, de 1º de janeiro de 2026 a 31 de dezembro de 2032, também ficam fora da base de cálculo os tributos previstos no art. 12, § 2º, inciso V, da Lei Complementar nº 214, de 2025. Entre eles estão o ICMS, o ISS, as contribuições para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Cofins.
+Além disso, de 1º de janeiro de 2027 a 31 de dezembro de 2032, também ficam fora da base de cálculo os tributos previstos no art. 12, § 2º, inciso V, da Lei Complementar nº 214, de 2025. Entre eles estão o ICMS, o ISS, as contribuições para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Cofins.
 
 !!! warning "Atenção"
     **ATENÇÃO À METODOLOGIA DE CÁLCULO**
@@ -104,15 +111,17 @@ Mesmo que a análise não resulte em mudança no valor total do contrato, será 
     
     Com a Reforma Tributária, a Seges ainda avalia quais critérios e metodologias serão utilizados para considerar os tributos efetivamente suportados pela contratada e os créditos relacionados à contratação no âmbito da CBS e do IBS.
     
-    Por isso, os exemplos do item 5 deste guia são simplificados e têm finalidade exclusivamente didática. Eles não utilizam uma metodologia baseada na tributação efetivamente suportada nem contemplam a apropriação de créditos. Seu objetivo é mostrar como a Reforma Tributária pode afetar economicamente os contratos e explicar a lógica de comparação entre os cenários tributários.
+    Por isso, os exemplos do item 5 deste guia são simplificados e têm finalidade exclusivamente didática. Eles apresentam diferentes formas de comparar os cenários tributários e mostram como a Reforma Tributária pode afetar os preços dos contratos. Os exemplos não usam a tributação efetivamente suportada e a apropriação de créditos para a CBS e o IBS.
+
+    Nos cálculos referentes à CBS e ao IBS, os exemplos não consideram a apropriação de créditos nem uma metodologia baseada na tributação efetivamente suportada pela contratada.
     
     Quanto ao Módulo 5 da PCFP, que trata de insumos e materiais, este guia apresenta apenas os exemplos ilustrativos de cálculo do item 3 do Anexo I.
     
     A Seges publicará orientações específicas sobre a tributação efetivamente suportada, a apropriação de créditos, os efeitos sobre insumos e materiais e os documentos necessários para comprovar essas informações.
     
-    Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula $[1 - (\% \text{ tributos} / 100)]$. Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
+    Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula 1-(tributos/100). Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
 
----
+<br>
 
 # 2. Como preparar o órgão público para a transição tributária
 
@@ -127,7 +136,7 @@ Ao organizar os fluxos de trabalho, é importante considerar as competências de
 
 Essas medidas contribuem para a consistência das análises, a adequada instrução dos processos administrativos e a definição clara das responsabilidades. Elas se aplicam tanto ao planejamento de novas contratações quanto à revisão de contratos vigentes.
 
----
+<br>
 
 # 3. Como planejar a contratação durante a transição tributária
 
@@ -209,7 +218,7 @@ Não. As normas gerais não exigem a indicação da NCM/SH no Estudo Técnico Pr
 
 Essa classificação pode ser utilizada, quando necessário, para ajudar a identificar o tratamento tributário dos bens envolvidos na contratação. Seu uso, porém, não cria uma nova exigência formal para a elaboração do ETP ou do TR.
 
----
+<br>
 
 # 4. Como avaliar os contratos vigentes
 
@@ -219,7 +228,7 @@ Entre as informações que precisam ser verificadas, estão:
 
 * a descrição do serviço contratado e seu enquadramento tributário;
 * os materiais relevantes para a execução do contrato e suas classificações fiscais, quando aplicáveis;
-* o regime tributário da contratada na época da apresentação da proposta, quando tiver influenciado a formação do preço;
+* o regime tributário da contratada na época da apresentação da proposta;
 * as demais premissas tributárias consideradas na PCFP.
 
 Essas informações ajudam a identificar como o preço foi calculado originalmente e a comparar os efeitos das regras tributárias anteriores e das novas regras.
@@ -235,13 +244,13 @@ Para realizar essa análise, recomenda-se seguir estas etapas:
 5. Identificar as regras tributárias aplicáveis ao período de transição analisado.
 6. Avaliar os efeitos da mudança tributária sobre a PCFP e o preço contratado.
 
-Essa análise ajuda a separar os efeitos da Reforma Tributária daqueles relacionados às condições originais da proposta, a mudanças posteriores no regime tributário da contratada ou a outros fatores que não decorrem da alteração da legislação.
+Essa análise ajuda a separar os efeitos da Reforma Tributária daqueles relacionados às condições originais da proposta ou a outros fatores que não decorrem da alteração da legislação.
 
 <br>
 
 ## 4.1 Como analisar um caso concreto
 
-Para avaliar os efeitos da Reforma Tributária sobre um contrato, recomenda-se comparar o preço calculated com as regras tributárias consideradas originalmente e o preço calculated com as regras aplicáveis ao período analisado.
+Para avaliar os efeitos da Reforma Tributária sobre um contrato, recomenda-se comparar o preço calculado com as regras tributárias consideradas originalmente e o preço calculado com as regras aplicáveis ao período analisado.
 
 A análise pode começar pela PCFP vigente, em conjunto com a proposta, a PCFP original e os registros das alterações realizadas durante a execução do contrato. Esses documentos ajudam a identificar as premissas tributárias utilizadas na formação do preço.
 
@@ -254,9 +263,9 @@ Para orientar a análise, recomenda-se seguir as oito etapas abaixo:
 | Etapa | Pergunta a responder |
 | :--- | :--- |
 | **1. Identificar a mudança tributária** | Qual alteração tributária será analisada e a que período ela se aplica? |
-| **2. Reconstruir o cenário original** | Quais documentos permitem identificar como o preço foi calculated originalmente e quais alterações ocorreram depois? Considere a proposta, a PCFP original, a PCFP vigente e os registros de repactuações? |
+| **2. Reconstruir o cenário original** | Quais documentos permitem identificar como o preço foi calculado originalmente e quais alterações ocorreram depois? Considere a proposta, a PCFP original, a PCFP vigente e os registros de repactuações? |
 | **3. Identificar o regime tributário** | Qual regime tributário foi considerado na formação da proposta e qual se aplica ao período analisado? |
-| **4. Separar os componentes do preço** | Como o preço está divided entre remuneração, encargos, benefícios, insumos, custos indiretos, tributos e lucro? |
+| **4. Separar os componentes do preço** | Como o preço está dividido entre remuneração, encargos, benefícios, insumos, custos indiretos, tributos e lucro? |
 | **5. Identificar os efeitos tributários** | Quais componentes do preço foram afetados pela mudança tributária? Quais aquisições podem gerar créditos, quando permitido pela legislação? |
 | **6. Reconstruir o cenário posterior** | Como as regras tributárias do período analisado afetam a mesma base econômica, considerados apenas os efeitos relacionados à mudança tributária? |
 | **7. Comparar os cenários** | Qual é a diferença líquida entre os cenários, considerados os créditos, o eventual redutor de compras governamentais e os demais mecanismos aplicáveis? |
@@ -271,8 +280,7 @@ Para avaliar os efeitos da Reforma Tributária sobre os contratos vigentes, reco
 * **Consultar os documentos da contratação.** Utilize a Planilha de Custos e Formação de Preços (PCFP) vigente como referência atualizada da composição do preço. Analise também a proposta, a PCFP original e os registros de repactuações, reajustes e outras alterações realizadas durante a execução do contrato. Esses documentos ajudam a identificar as premissas tributárias consideradas na formação original do preço.
 * **Manter os componentes do preço separados.** Identifique individualmente remuneração, encargos, benefícios, materiais, equipamentos, insumos, custos indiretos, tributos e lucro, conforme a estrutura da contratação.
 * **Identificar os componentes que podem gerar créditos tributários.** Diferencie os custos relacionados principalmente à mão de obra das aquisições de bens e serviços que podem gerar créditos, conforme as regras previstas na legislação. Essa separação não altera a incidência dos tributos sobre o valor da operação. Ela serve para identificar os diferentes efeitos econômicos da sistemática de creditamento.
-* **Verificar as condições para o aproveitamento de créditos.** Considere as hipóteses e os requisitos previstos na legislação tributária. Analise também os documentos que permitam relacionar os efeitos econômicos desses créditos ao contrato. A Seges detalhará os documentos e os critérios de comprovação em uma orientação específica. Até lá, recomenda-se não considerar os créditos automaticamente nem desconsiderá-los sem analisar as características de cada caso.
-
+* **Verificar as condições para o aproveitamento de créditos.** Considere as hipóteses e os requisitos previstos na legislação tributária. Analise também os documentos que permitam relacionar os efeitos econômicos desses créditos ao contrato.
 #### Como considerar o lucro na comparação
 
 Para comparar especificamente os efeitos da Reforma Tributária, recomenda-se manter o valor monetário do lucro registrado na PCFP de referência, sem aplicar automaticamente o percentual original sobre a nova base de cálculo.
@@ -292,9 +300,7 @@ O regime tributário informado pela contratada na apresentação da proposta pod
 
 Nos casos de empresas optantes pelo Simples Nacional, de opção pelo regime regular da CBS e do IBS ou de outros regimes específicos, a análise deve considerar as regras aplicáveis à contratada, à operação e ao período examinado.
 
-As fórmulas, as memórias de cálculo e os exemplos numéricos estão disponíveis no Anexo I deste guia, como material de apoio técnico.
-
----
+<br>
 
 # 5. Exemplo prático: por que a troca de alíquotas não basta
 
@@ -396,7 +402,7 @@ A comparação só pode servir de referência para um contrato real quando os do
 
 #### Exemplo 1. Regime cumulativo de PIS e Cofins
 
-O primeiro exemplo compara o preço calculated pelo regime cumulativo de PIS e Cofins com o preço resultante das regras de CBS e IBS utilizadas na simulação.
+O primeiro exemplo compara o preço calculado pelo regime cumulativo de PIS e Cofins com o preço resultante das regras de CBS e IBS utilizadas na simulação.
 
 #### Quadro 4. Módulo 6: Custos Indiretos, Tributos e Lucro (CITL) no regime cumulativo de PIS e Cofins
 
@@ -419,7 +425,7 @@ O primeiro exemplo compara o preço calculated pelo regime cumulativo de PIS e C
 
 **Resultado da comparação**
 
-O impacto líquido corresponde à diferença entre o preço calculated com a CBS e o IBS e o preço calculated com o PIS e a Cofins.
+O impacto líquido corresponde à diferença entre o preço calculado com a CBS e o IBS e o preço calculado com o PIS e a Cofins.
 
 $$\text{Impacto líquido} = \text{R\$ } 111.663,16 - \text{R\$ } 109.469,07$$  
 $$\text{Impacto líquido} = \text{R\$ } 2.194,09$$
@@ -429,6 +435,9 @@ Neste exemplo, as premissas utilizadas resultam em um aumento de R$ 2.194,09 no 
 Se a análise de um contrato real demonstrar esse aumento e comprovar que ele decorre da mudança tributária, o órgão ou entidade deverá promover a recomposição do preço em favor da contratada, observados a solicitação da interessada e o procedimento administrativo aplicável.
 
 #### Exemplo 2. Regime não cumulativo de PIS e Cofins
+No exemplo do regime não cumulativo desta seção, utilizamos alíquotas efetivas de PIS e Cofins, correspondentes a 65% das alíquotas nominais apresentadas no item 5.2. Essa simulação demonstra a aplicação de alíquotas efetivas, conforme a metodologia prevista na Orientação nº 19 da Seges.
+
+Já o exemplo do item 5.2 utiliza alíquotas nominais e um crédito estimado de R$ 925,00. Por isso, os dois exemplos apresentam preços diferentes, embora considerem a mesma base econômica comparável.
 
 #### Quadro 5. Módulo 6: Custos Indiretos, Tributos e Lucro (CITL) no regime não cumulativo de PIS e Cofins
 
@@ -446,12 +455,12 @@ Se a análise de um contrato real demonstrar esse aumento e comprovar que ele de
 
 ¹ Foram utilizadas alíquotas efetivas correspondentes a 65% das alíquotas nominais de PIS e Cofins apresentadas no item 5.2. As fórmulas estão detalhadas no Anexo I.  
 ² A alíquota da CBS de 6,3% resulta da aplicação do redutor de 44,2% para compras governamentais sobre a alíquota padrão de 11,3%, conforme os percentuais divulgados pelo TCU em 28 de outubro de 2026.  
-³ O ISS foi calculated sem considerar a CBS e o IBS na base de cálculo.  
+³ O ISS foi calculado sem considerar a CBS e o IBS na base de cálculo.  
 ⁴ A CBS e o IBS têm metodologias de cálculo diferentes da utilizada para o ISS. Os valores da CBS e do IBS não integram suas próprias bases de cálculo, enquanto o cálculo do ISS considera o próprio imposto em sua base. Por isso, não é possível somar diretamente os percentuais como se fossem calculados sobre a mesma base.
 
 **Resultado da comparação**
 
-O impacto líquido corresponde à diferença entre o preço calculated com a CBS e o IBS e o preço calculated com o PIS e a Cofins.
+O impacto líquido corresponde à diferença entre o preço calculado com a CBS e o IBS e o preço calculado com o PIS e a Cofins.
 
 $$\text{Impacto líquido} = \text{R\$ } 111.663,16 - \text{R\$ } 112.375,33$$  
 $$\text{Impacto líquido} = -\text{R\$ } 712,17$$
@@ -462,7 +471,7 @@ Se a análise de um contrato real demonstrar essa redução e comprovar que ela 
 
 Nesse procedimento, deverá ser assegurada a manifestação da contratada, observadas as regras aplicáveis.
 
----
+<br>
 
 # 6. Como analisar contratações sem PCFP ou com informações insuficientes
 
@@ -506,7 +515,7 @@ Se as informações continuarem insuficientes, recomenda-se registrar essa limit
 
 Nos casos de dúvidas jurídicas relevantes ou de elevado impacto econômico, complexidade ou risco, também poderá ser avaliada a participação da unidade de assessoramento jurídico do órgão ou entidade, respeitadas suas competências.
 
----
+<br>
 
 # 7. Cuidados para analisar os efeitos da Reforma Tributária
 
@@ -515,12 +524,12 @@ Para assegurar comparabilidade, rastreabilidade e coerência à avaliação, con
 * **Verifique os componentes do preço.** Identifique como a mudança tributária afeta os diferentes componentes econômicos do preço contratado.
 * **Não considere apenas as alíquotas.** Diferencie as alíquotas nominais do impacto econômico líquido da mudança tributária, conforme os resultados da análise de cada contrato.
 * **Analise os créditos e os tratamentos tributários aplicáveis.** Verifique os créditos, os ajustes de alíquotas e os demais tratamentos previstos na legislação. Considere as regras aplicáveis ao período analisado e os documentos disponíveis para comprovar seus efeitos.
-* **Separe os efeitos da Reforma Tributária de outras mudanças.** Identifique separadamente os efeitos de repactuações, reajustes, alterações nas quantidades contratadas, mudanças no regime tributário da contratada e outras variações de custos.
+* **Separe os efeitos da Reforma Tributária de outras mudanças.** Identifique separadamente os efeitos de repactuações, reajustes, alterações nas quantidades contratadas e outras variações de custos.
 * **Utilize os exemplos do guia apenas como referência.** Os cálculos apresentados são didáticos. Na análise de um contrato real, substitua os valores, percentuais e demais premissas pelos parâmetros aplicáveis à contratação.
 * **Consulte as unidades especializadas, quando necessário.** Avalie a participação das áreas competentes quando a análise envolver questões jurídicas, tributárias, contábeis, orçamentárias ou outros assuntos que exijam conhecimentos específicos.
 * **Registre as informações utilizadas na análise.** Documente as premissas adotadas, as memórias de cálculo, os documentos consultados e as limitações identificadas. Considere essas limitações ao avaliar o grau de segurança da conclusão.
 
----
+<br>
 
 # 8. Legislação e referências técnicas
 
@@ -542,7 +551,7 @@ Ao utilizar essas referências, é importante verificar se as normas continuam e
 !!! warning "Atenção"
     **Atenção:** este guia é um material de apoio e não substitui a consulta ao texto integral das normas aplicáveis.
 
----
+<br>
 
 # ANEXO I - MEMÓRIA DE CÁLCULO E FÓRMULAS PARA ANÁLISE COMPARATIVA
 
@@ -679,7 +688,6 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | **Cofins** | 3% |
 | **CBS** | 11,3% (TCU) |
 | **IBS** | 0,1% |
-| **Redutor para compras governamentais** | 44,2% (TCU) |
 
 **Exemplo 1. Cálculo sem apropriação de créditos: CBS e IBS não integram a base de cálculo do ICMS.**
 
@@ -696,6 +704,9 @@ O exemplo a seguir demonstra como decompor o preço original de um material e re
 | **IBS** | R$ 7,83 | BEC × alíquota IBS |
 | **ICMS** | R$ 1.719,88 | [BEC ÷ (1 - alíquota ICMS)] - BEC |
 | **Preço contratado após a Reforma Tributária (PC<sub>r</sub>)** | R$ 10.448,06 | PC<sub>r</sub> = BEC + CBS + IBS + ICMS |
+
+!!! NOTE "Nota"
+    Os valores de PIS, Cofins e ICMS foram calculados por meio de fórmula simplificada. Como o ICMS é um tributo de competência estadual, sua apuração pode variar de acordo com a legislação vigente, o regime tributário adotado e as características específicas da operação.
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
