@@ -51,7 +51,7 @@ Parte deles está prevista na legislação, especialmente na Lei Complementar n�
 
 | Conceito | O que significa | Por que importa |
 | :--- | :--- | :--- |
-| **Preço contratado (PC)** | Valor acordado para a execução do contrato, calculated conforme as condições da contratação e a PCFP. | A mudança tributária pode aumentar ou reduzir esse valor, conforme os efeitos comprovados em cada contrato e a legislação aplicável. |
+| **Preço contratado (PC)** | Valor acordado para a execução do contrato, calculado conforme as condições da contratação e a PCFP. | A mudança tributária pode aumentar ou reduzir esse valor, conforme os efeitos comprovados em cada contrato e a legislação aplicável. |
 | **Base econômica comparável (BEC)** | Conjunto de custos diretos, custos indiretos e lucro que permanece constante na comparação entre os cenários tributários, exceto quando a própria mudança tributária afeta algum desses componentes. | Permite identificar os efeitos da Reforma Tributária sem confundi-los com outros fatores, como inflação, repactuação ou alteração das quantidades contratadas. |
 | **Carga tributária nominal** | Percentual ou valor dos tributos calculado antes de descontar créditos e aplicar outros mecanismos previstos na legislação. | Ajuda a identificar os tributos incidentes, mas não representa necessariamente o custo tributário que a empresa efetivamente suporta. |
 | **Crédito tributário** | Valor que pode ser utilizado para reduzir o tributo a recolher, nas situações permitidas pela legislação. | Empresas sujeitas à mesma alíquota podem ter cargas tributárias líquidas diferentes, dependendo dos créditos que podem aproveitar. |
@@ -88,7 +88,7 @@ Além disso, de 1º de janeiro de 2026 a 31 de dezembro de 2032, também ficam f
 
 ## 1.3 Como a Reforma Tributária afeta a Planilha de custos e formação de preços (PCFP) modelo Seges
 
-A PCFP apresenta a composição do preço contratado, dividida em módulos e componentes. Esse detalhamento ajuda a identificar como o preço foi calculated originalmente, mas não permite ajustar os valores automaticamente às novas regras tributárias.
+A PCFP apresenta a composição do preço contratado, dividida em módulos e componentes. Esse detalhamento ajuda a identificar como o preço foi calculado originalmente, mas não permite ajustar os valores automaticamente às novas regras tributárias.
 
 Para avaliar os efeitos da Reforma Tributária, é necessário verificar como as mudanças podem afetar cada componente do preço, como salários, encargos, benefícios, insumos, custos indiretos, tributos e lucro. Essa análise deve considerar as regras de incidência e creditamento aplicáveis.
 
