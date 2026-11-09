@@ -109,7 +109,7 @@ A comparação só pode servir de referência para um contrato real quando os do
 
 #### Exemplo 1. Regime cumulativo de PIS e Cofins
 
-O primeiro exemplo compara o preço calculated pelo regime cumulativo de PIS e Cofins com o preço resultante das regras de CBS e IBS utilizadas na simulação.
+O primeiro exemplo compara o preço calculado pelo regime cumulativo de PIS e Cofins com o preço resultante das regras de CBS e IBS utilizadas na simulação.
 
 #### Quadro 4. Módulo 6: Custos Indiretos, Tributos e Lucro (CITL) no regime cumulativo de PIS e Cofins
 
@@ -132,7 +132,7 @@ O primeiro exemplo compara o preço calculated pelo regime cumulativo de PIS e C
 
 **Resultado da comparação**
 
-O impacto líquido corresponde à diferença entre o preço calculated com a CBS e o IBS e o preço calculated com o PIS e a Cofins.
+O impacto líquido corresponde à diferença entre o preço calculado com a CBS e o IBS e o preço calculado com o PIS e a Cofins.
 
 $$\text{Impacto líquido} = \text{R\$ } 111.663,16 - \text{R\$ } 109.469,07$$  
 $$\text{Impacto líquido} = \text{R\$ } 2.194,09$$
@@ -162,12 +162,12 @@ Já o exemplo do item 5.2 utiliza alíquotas nominais e um crédito estimado de 
 
 ¹ Foram utilizadas alíquotas efetivas correspondentes a 65% das alíquotas nominais de PIS e Cofins apresentadas no item 5.2. As fórmulas estão detalhadas no Anexo I.  
 ² A alíquota da CBS de 6,3% resulta da aplicação do redutor de 44,2% para compras governamentais sobre a alíquota padrão de 11,3%, conforme os percentuais divulgados pelo TCU em 28 de outubro de 2026.  
-³ O ISS foi calculated sem considerar a CBS e o IBS na base de cálculo.  
+³ O ISS foi calculado sem considerar a CBS e o IBS na base de cálculo.  
 ⁴ A CBS e o IBS têm metodologias de cálculo diferentes da utilizada para o ISS. Os valores da CBS e do IBS não integram suas próprias bases de cálculo, enquanto o cálculo do ISS considera o próprio imposto em sua base. Por isso, não é possível somar diretamente os percentuais como se fossem calculados sobre a mesma base.
 
 **Resultado da comparação**
 
-O impacto líquido corresponde à diferença entre o preço calculated com a CBS e o IBS e o preço calculated com o PIS e a Cofins.
+O impacto líquido corresponde à diferença entre o preço calculado com a CBS e o IBS e o preço calculado com o PIS e a Cofins.
 
 $$\text{Impacto líquido} = \text{R\$ } 111.663,16 - \text{R\$ } 112.375,33$$  
 $$\text{Impacto líquido} = -\text{R\$ } 712,17$$
