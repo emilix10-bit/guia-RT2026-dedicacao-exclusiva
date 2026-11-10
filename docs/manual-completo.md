@@ -104,6 +104,8 @@ Alguns componentes, como uniformes, equipamentos de proteção individual, mater
 
 Mesmo que a análise não resulte em mudança no valor total do contrato, será necessário atualizar a estrutura da PCFP para representar corretamente os tributos aplicáveis, a composição dos módulos e componentes e a metodologia de cálculo da CBS e do IBS.
 
+A Seges atualizará o modelo de Planilha de Custos e Formação de Preços (PCFP) para adequá-lo à sistemática da CBS e do IBS. O novo modelo vai contemplar os ajustes necessários à estrutura da planilha, à representação dos tributos e às metodologias de cálculo conforme as regras da Reforma Tributária. 
+
 !!! note "Nota"
     **CRITÉRIOS E METODOLOGIA PARA ANALISAR OS EFEITOS TRIBUTÁRIOS**
     
@@ -122,14 +124,13 @@ Mesmo que a análise não resulte em mudança no valor total do contrato, será 
     Os cálculos referentes ao regime tributário atualmente vigente seguem a metodologia usada para a apuração tributos, representada pela fórmula 1-(tributos/100). Neste guia não foram considerados os efeitos das decisões do Supremo Tribunal Federal nos Temas 69 e 118.
 
 <br>
-
 # 2. Como preparar o órgão público para a transição tributária
 
 Para se preparar para a Reforma Tributária, recomenda-se que os órgãos e entidades:
 
-* Revisem os fluxos de trabalho e os procedimentos que podem ser afetados pela transição tributária, de acordo com a estrutura de cada órgão ou entidade.
-* Identifiquem as unidades responsáveis pelo planejamento, pela gestão e fiscalização dos contratos, pelos pagamentos, pela repactuação, pelo reajustamento e pela análise de alterações de preços decorrentes de mudanças tributárias ou de outros eventos juridicamente relevantes.
-* Mantenham organizados os documentos das contratações, incluindo a proposta, a PCFP original e a vigente, as memórias de cálculo e os registros das alterações realizadas durante a execução dos contratos.
+* Mapeiem os fluxos de trabalho e os procedimentos que podem ser afetados pela transição tributária, avaliando a necessidade de ajustes, considerando as orientações e os instrumentos disponibilizados pela Seges;
+* Identifiquem as unidades responsáveis pelo planejamento, pela gestão e fiscalização dos contratos, pelos pagamentos, pela repactuação, pelo reajustamento e pela análise de alterações de preços decorrentes de mudanças tributárias ou de outros eventos relevantes juridicamente; organizem os encaminhamentos e a análise das questões relacionadas à transição tributária;
+* Mantenham organizados os documentos das contratações, incluindo a proposta, a Planilha de Custos e Formação de Preços (PCFP) original e a vigente, as memórias de cálculo e os registros das alterações realizadas durante a execução dos contratos;
 * Capacitem as equipes envolvidas.
 
 Ao organizar os fluxos de trabalho, é importante considerar as competências de cada unidade e respeitar a segregação de funções. Nos casos que exigirem conhecimentos especializados, recomenda-se avaliar a participação das áreas jurídica, contábil ou de outras áreas competentes.
@@ -222,7 +223,7 @@ Essa classificação pode ser utilizada, quando necessário, para ajudar a ident
 
 # 4. Como avaliar os contratos vigentes
 
-Nos contratos em andamento que serão afetados pela transição tributária, recomenda-se identificar e registrar as condições consideradas na formação do preço. Para isso, devem ser consultados os documentos disponíveis no processo e, quando necessário, informações complementares.
+Nos contratos em andamento que poderão ser afetados pela transição tributária, recomenda-se identificar e registrar as condições consideradas na formação do preço. Para isso, devem ser consultados os documentos disponíveis no processo e, quando necessário, informações complementares.
 
 Entre as informações que precisam ser verificadas, estão:
 
@@ -337,6 +338,8 @@ Para permitir a comparação entre os cenários, o exercício mantém o valor mo
 
 As fórmulas e as premissas utilizadas para calcular os tributos e reconhecer os créditos estão detalhadas no Anexo I.
 
+Se a Reforma Tributária alterar os custos tributários de um contrato, poderá ser necessário ajustar seu valor para manter o equilíbrio econômico-financeiro. Esse ajuste deve seguir as regras aplicáveis ao contrato, especialmente os artigos 373 a 377 da Lei Complementar nº 214/2025, quando cabíveis, e o artigo 134 da Lei nº 14.133/2021. Os cálculos apresentados a seguir são apenas exemplos. Qualquer ajuste no valor do contrato exige a comprovação de que as mudanças nos tributos realmente afetaram os preços contratados, considerando as características de cada caso.
+
 <br>
 
 ## 5.1 Reconstrução do cenário de origem
@@ -345,7 +348,7 @@ Neste exemplo, os R$ 100.000,00 correspondem à base econômica comparável (BEC
 
 <br>
 
-## 5.2 Comparação ilustrativa dos cenários: Lucro real e presumido
+## 5.2 Comparação ilustrativa dos cenários: regimes de crédito cumulativo e não cumulativo
 
 Esta seção compara a formação dos preços em três cenários: PIS e Cofins no regime cumulativo, PIS e Cofins no regime não cumulativo e CBS e IBS.
 
@@ -453,7 +456,7 @@ Já o exemplo do item 5.2 utiliza alíquotas nominais e um crédito estimado de 
 | **E.2 Outros Tributos Municipais (especificar)** | — | — |
 | **F Total dos Tributos⁴** | (11,0125%) R$ 12.375,33 | R$ 11.663,16 |
 
-¹ Foram utilizadas alíquotas efetivas correspondentes a 65% das alíquotas nominais de PIS e Cofins apresentadas no item 5.2. As fórmulas estão detalhadas no Anexo I.  
+¹ Foram utilizadas alíquotas efetivas correspondentes a 65% das alíquotas nominais de PIS e Cofins apresentadas no item 5.2. Trata-se de hipótese ilustrativa para representar a aplicação de alíquotas efetivas, em linha com a lógica atual da Orientação nº 19 da Seges. As fórmulas usadas estão detalhadas no Anexo I.  
 ² A alíquota da CBS de 6,3% resulta da aplicação do redutor de 44,2% para compras governamentais sobre a alíquota padrão de 11,3%, conforme os percentuais divulgados pelo TCU em 28 de outubro de 2026.  
 ³ O ISS foi calculado sem considerar a CBS e o IBS na base de cálculo.  
 ⁴ A CBS e o IBS têm metodologias de cálculo diferentes da utilizada para o ISS. Os valores da CBS e do IBS não integram suas próprias bases de cálculo, enquanto o cálculo do ISS considera o próprio imposto em sua base. Por isso, não é possível somar diretamente os percentuais como se fossem calculados sobre a mesma base.
@@ -467,9 +470,7 @@ $$\text{Impacto líquido} = -\text{R\$ } 712,17$$
 
 Neste exemplo, as premissas utilizadas resultam em uma redução de R$ 712,17 no preço contratado.
 
-Se a análise de um contrato real demonstrar essa redução e comprovar que ela decorre da mudança tributária, o órgão ou entidade deverá iniciar, de ofício, o procedimento de recomposição do equilíbrio econômico-financeiro em favor da Administração.
-
-Nesse procedimento, deverá ser assegurada a manifestação da contratada, observadas as regras aplicáveis.
+Se a análise de um contrato comprovar que a Reforma Tributária reduziu a carga tributária efetiva suportada pela empresa contratada, o órgão ou entidade pública deverá considerar a revisão de ofício, ou seja, por iniciativa própria, para restabelecer o equilíbrio econômico-financeiro do contrato, conforme previsto no artigo 375 da Lei Complementar nº 214/2025.
 
 <br>
 
