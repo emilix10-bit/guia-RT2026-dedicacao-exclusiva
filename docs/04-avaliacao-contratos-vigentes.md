@@ -11,7 +11,11 @@
 
 # 4. Como avaliar os contratos vigentes
 
-Nos contratos em andamento que serão afetados pela transição tributária, recomenda-se identificar e registrar as condições consideradas na formação do preço. Para isso, devem ser consultados os documentos disponíveis no processo e, quando necessário, informações complementares.
+Nos contratos em andamento que poderão ser afetados pela transição tributária, recomenda-se identificar e registrar as condições consideradas na formação do preço. Para isso, devem ser consultados os documentos disponíveis no processo e, quando necessário, informações complementares.
+
+As análises apresentadas nesta seção têm caráter ilustrativo e buscam oferecer uma visão geral dos possíveis efeitos da Reforma Tributária sobre as contratações. Como diversos aspectos da metodologia definitiva ainda se encontram em avaliação, os órgãos e entidades poderão adotar procedimentos compatíveis com suas realidades. 
+
+Orientações e instrumentos complementares poderão ser disponibilizados pela Seges para apoiar e uniformizar essas avaliações.
 
 Entre as informações que precisam ser verificadas, estão:
 
