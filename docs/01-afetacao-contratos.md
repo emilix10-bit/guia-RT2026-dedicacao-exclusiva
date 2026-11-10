@@ -96,6 +96,8 @@ Alguns componentes, como uniformes, equipamentos de proteção individual, mater
 
 Mesmo que a análise não resulte em mudança no valor total do contrato, será necessário atualizar a estrutura da PCFP para representar corretamente os tributos aplicáveis, a composição dos módulos e componentes e a metodologia de cálculo da CBS e do IBS.
 
+A Seges atualizará o modelo de Planilha de Custos e Formação de Preços (PCFP) para adequá-lo à sistemática da CBS e do IBS. O novo modelo vai contemplar os ajustes necessários à estrutura da planilha, à representação dos tributos e às metodologias de cálculo conforme as regras da Reforma Tributária. 
+
 !!! note "Nota"
     **CRITÉRIOS E METODOLOGIA PARA ANALISAR OS EFEITOS TRIBUTÁRIOS**
     
